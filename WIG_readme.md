@@ -10,4 +10,4 @@ With a query q, corpus D, list of top-ranked documents Dq , the set of top-ranke
 
 ![Wig Formula](/images/wig_formula.png)
  
-&#955; (t) represents the relative weight of the term t and is inversely related to the square root of the number of query terms. When all the query terms are keywords, it is simplified to &#955;(t)=\frac{1}{\sqrt{\left|q\right|}}.
+&#955; (t) represents the relative weight of the term t and is inversely related to the square root of the number of query terms. When all the query terms are keywords, it is simplified to &#955;(t)=$\frac{1}{$\sqrt{$\left|q$\right|}}.
